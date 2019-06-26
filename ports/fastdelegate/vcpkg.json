@@ -1,0 +1,6 @@
+{
+  "name": "fastdelegate",
+  "version-semver": "1.0.0",
+  "port-version": 0,
+  "description": "Very fast C++ delegates"
+}
